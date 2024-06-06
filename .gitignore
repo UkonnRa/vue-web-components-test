@@ -1,0 +1,25 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+
+# local .env files
+.env.local*
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Vite
+dist/
+stats.html
